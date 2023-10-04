@@ -9,5 +9,11 @@ Here is a sample video present which shows the detection demo
 
 
 
-https://github.com/TechShark20/Secmyvehic/assets/122713809/d8fe17f3-07ee-4fec-998f-39aeaa538f09
+![Demo]https://github.com/TechShark20/Secmyvehic/assets/122713809/d8fe17f3-07ee-4fec-998f-39aeaa538f09
+
+
+## Actual prototype 
+
+![Actual prototype](https://github.com/TechShark20/Secmyvehic/assets/122713809/f3bfe646-99d7-42eb-987c-db8374cf9f67)
+
 

@@ -1,0 +1,21 @@
+*********Pin out for Raspberry pi pico *************
+Gp 0 to Rx of Gps module (uart)
+Gp 1 to tx of Gps module (uart)
+vcc of gps of module  to vbus of rpi pico
+gnd of gps of module  to gnd of rpi pico
+//to make sure the grouned of pi pico and gps module is common 
+Gp 9 to tx of gsm module  (uart)
+Gp 8 to rx of gsm module (uart) 
+gnd OF GSM MODULE  to gnd of pi pico
+vcc of gsm module to vcc of a lithum battery 
+gp14 to +ve of buzzer
+gp13 to esp32's gpio 13 // if possible  add a resistor 
+
+
+Note :: MAKE SURE  THAT THE GROUND OF GSM MODULE AND GROUND OF RPI PICO ARE COMMON AND ESP 32 GROUND ALSO SHOULD BE IN COMMON WITH RPI PICO 
+
+
+
+
+
+ 

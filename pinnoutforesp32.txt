@@ -1,0 +1,11 @@
+**********Pinout for Esp32 cam ***************
+
+5V pin:: to voltage supply 
+
+Gnd:: to ground // make sure ground is common
+
+Gpio 12::push button for enrollment 
+Gpio 13:: trigger pin to Gpio 14 of pi pico 
+Gpio 2 ::Led in normal mode 
+Gpio 14::Led in face mode
+

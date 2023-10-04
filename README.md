@@ -16,5 +16,10 @@ https://github.com/TechShark20/Secmyvehic/assets/122713809/d8fe17f3-07ee-4fec-99
 
 ![Actual prototype](https://github.com/TechShark20/Secmyvehic/assets/122713809/f3bfe646-99d7-42eb-987c-db8374cf9f67)
 
-<br>  An additional battery has attached for the prototype </br>
+<br>  An additional battery has attached for giving addtional power to gsm module  </br>
 
+you may refer [this](https://github.com/ssDhp/bt-Pico) for the connection's of rpi pico 
+
+## About 
+
+This project is created for the small sized vehicles , which are old and does not support many secuity function other than keey 

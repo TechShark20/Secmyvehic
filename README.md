@@ -9,7 +9,7 @@ Here is a sample video present which shows the detection demo
 
 
 
-![Demo]https://github.com/TechShark20/Secmyvehic/assets/122713809/d8fe17f3-07ee-4fec-998f-39aeaa538f09
+[Demo video]https://github.com/TechShark20/Secmyvehic/assets/122713809/d8fe17f3-07ee-4fec-998f-39aeaa538f09
 
 
 ## Actual prototype 

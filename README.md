@@ -22,4 +22,7 @@ you may refer [this](https://github.com/ssDhp/bt-Pico) for the connection's of r
 
 ## About 
 
-This project is created for the small sized vehicles , which are old and does not support many secuity function other than keey 
+This project is created for the small sized vehicles , which are old and does not support many secuity function other than key,
+with our analysis done through serial monitor of arduino  we found that this model is 80.4% accurate over real time data 
+  [visit here ](https://github.com/TechShark20/Secmyvehic/blob/main/Recotestesp32/processingenroll.ipynb)
+
